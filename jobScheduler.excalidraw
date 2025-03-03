@@ -1,0 +1,48 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "x4GCUhuDCRgYGJcVQ5pbv",
+      "type": "text",
+      "x": 100.00000000000001,
+      "y": -80,
+      "width": 834.375,
+      "height": 19.2,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 828001559,
+      "version": 25,
+      "versionNonce": 1554232471,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1740632728822,
+      "link": null,
+      "locked": false,
+      "text": "https://leetcode.com/discuss/interview-question/6428187/Design-Distributed-Job-Scheduler.",
+      "fontSize": 16,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 15,
+      "containerId": null,
+      "originalText": "https://leetcode.com/discuss/interview-question/6428187/Design-Distributed-Job-Scheduler.",
+      "lineHeight": 1.2
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "viewBackgroundColor": "#fdf8f6"
+  },
+  "files": {}
+}
